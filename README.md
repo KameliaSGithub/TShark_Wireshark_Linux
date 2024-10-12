@@ -8,9 +8,8 @@ This repository contains 6 network troubleshooting tasks. The first uses TShark 
 
 Wireshark capture dates 
 
-![wireshark_capture](https://github.com/user-attachments/assets/dd055dcb-e5d7-4118-a594-b4c0d88316f9)
 
-
+![Screenshot from 2024-10-12 14-02-46](https://github.com/user-attachments/assets/be0668a3-9d75-4b4b-b9bb-80d196aedbd5)
 
 
 
