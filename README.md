@@ -5,10 +5,10 @@ This repository contains 6 network troubleshooting tasks. The first uses TShark 
 ![Screenshot from 2024-10-12 12-59-30](https://github.com/user-attachments/assets/062f7f74-758d-4ec9-b640-635449b004cd)
 
 
+
 Wireshark capture dates 
 
-
-
+![wireshark_capture](https://github.com/user-attachments/assets/dd055dcb-e5d7-4118-a594-b4c0d88316f9)
 
 
 
