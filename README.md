@@ -11,6 +11,7 @@ Wireshark capture dates
 
 ![Screenshot from 2024-10-12 14-02-46](https://github.com/user-attachments/assets/be0668a3-9d75-4b4b-b9bb-80d196aedbd5)
 
+sudo wireshark -i ens33 -k
 
 
 
